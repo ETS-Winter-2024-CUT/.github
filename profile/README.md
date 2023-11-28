@@ -2,9 +2,19 @@
 
 Salut à tous ! 🌟 Bienvenue dans notre espace GitHub dédié à notre sessions de cours et projets collaboratifs. Ici, on code, on apprend et on s'amuse ensemble ! 🎉
 
-## Rapidement: qu'est-ce que GitHub ?
+## Présentation:
+
+### Objectif de l'Organisation
+
+Cette organisation a pour objectif de rassembler la classe et de travailler sur les exercices et les laboratoires ensemble. Nous visons à proposer des solutions lorsque celles-ci n'existent pas ou à améliorer les solutions existantes, que ce soit en termes de lisibilité ou de performances.
+
+### Rapidement: qu'est-ce que GitHub ?
 
 GitHub est une plateforme de développement collaboratif permettant de partager du code, de collaborer sur des projets et de gérer les versions de logiciels. Si vous êtes nouveau sur GitHub, ne vous inquiétez pas ! Vous trouverez plus de détails dans notre Wiki.
+
+### Remarque importante
+
+Il est essentiel de souligner que c'est un projet d'étudiants. Il est possible qu'il y ait des oublis, des erreurs ou d'autres éléments perfectibles. Tout le monde est encouragé à participer pour rendre l'organisation meilleure. Votre contribution est grandement appréciée !
 
 ---
 
