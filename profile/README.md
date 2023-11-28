@@ -11,15 +11,38 @@ GitHub est une plateforme de développement collaboratif permettant de partager 
 ## Structure de l'Organisation
 
 - **Organisation**
-    - **Matière 1**
+    - **Équipe GTI100**
         - Exercices
         - Laboratoires
         - Travaux pratiques
-    - **Matière 2**
+    - **Équipe INF111**
         - Exercices
         - Laboratoires
         - Travaux pratiques
-    - *et ainsi de suite...*
+    - **Équipe LOG100**
+        - Exercices
+        - Laboratoires
+        - Travaux pratiques
+    - **Équipe LOG121**
+        - Exercices
+        - Laboratoires
+        - Travaux pratiques
+    - **Équipe TCH055**
+        - Exercices
+        - Laboratoires
+        - Travaux pratiques
+    - **Équipe TCH056**
+        - Exercices
+        - Laboratoires
+        - Travaux pratiques
+    - **Équipe TCH057**
+        - Exercices
+        - Laboratoires
+        - Travaux pratiques
+    - **Équipe TCH099**
+        - Exercices
+        - Laboratoires
+        - Travaux pratiques
 
 ---
 
