@@ -15,6 +15,7 @@ GitHub est une plateforme de développement collaboratif permettant de partager 
 ### Remarque importante
 
 Il est essentiel de souligner que c'est un projet d'étudiants. Il est possible qu'il y ait des oublis, des erreurs ou d'autres éléments perfectibles. Tout le monde est encouragé à participer pour rendre l'organisation meilleure. 
+
 Votre contribution est grandement appréciée !
 
 ---
