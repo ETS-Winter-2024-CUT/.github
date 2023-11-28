@@ -10,39 +10,38 @@ GitHub est une plateforme de développement collaboratif permettant de partager 
 
 ## Structure de l'Organisation
 
-- **Organisation**
-    - **[Équipe GTI100](https://github.com/orgs/ETS-Winter-2024-CUT/teams/GTI100)**
-        - Exercices
-        - Laboratoires
-        - Travaux pratiques
-    - **[Équipe INF111](https://github.com/orgs/ETS-Winter-2024-CUT/teams/INF111)**
-        - Exercices
-        - Laboratoires
-        - Travaux pratiques
-    - **[Équipe LOG100](https://github.com/orgs/ETS-Winter-2024-CUT/teams/LOG100)**
-        - Exercices
-        - Laboratoires
-        - Travaux pratiques
-    - **[Équipe LOG121](https://github.com/orgs/ETS-Winter-2024-CUT/teams/LOG121)**
-        - Exercices
-        - Laboratoires
-        - Travaux pratiques
-    - **[Équipe TCH055](https://github.com/orgs/ETS-Winter-2024-CUT/teams/TCH055)**
-        - Exercices
-        - Laboratoires
-        - Travaux pratiques
-    - **[Équipe TCH056](https://github.com/orgs/ETS-Winter-2024-CUT/teams/TCH056)**
-        - Exercices
-        - Laboratoires
-        - Travaux pratiques
-    - **[Équipe TCH057](https://github.com/orgs/ETS-Winter-2024-CUT/teams/TCH057)**
-        - Exercices
-        - Laboratoires
-        - Travaux pratiques
-    - **[Équipe TCH099](https://github.com/orgs/ETS-Winter-2024-CUT/teams/TCH099)**
-        - Exercices
-        - Laboratoires
-        - Travaux pratiques
+- **[Équipe GTI100](https://github.com/orgs/ETS-Winter-2024-CUT/teams/GTI100)**
+    - Exercices
+    - Laboratoires
+    - Travaux pratiques
+- **[Équipe INF111](https://github.com/orgs/ETS-Winter-2024-CUT/teams/INF111)**
+    - Exercices
+    - Laboratoires
+    - Travaux pratiques
+- **[Équipe LOG100](https://github.com/orgs/ETS-Winter-2024-CUT/teams/LOG100)**
+    - Exercices
+    - Laboratoires
+    - Travaux pratiques
+- **[Équipe LOG121](https://github.com/orgs/ETS-Winter-2024-CUT/teams/LOG121)**
+    - Exercices
+    - Laboratoires
+    - Travaux pratiques
+- **[Équipe TCH055](https://github.com/orgs/ETS-Winter-2024-CUT/teams/TCH055)**
+    - Exercices
+    - Laboratoires
+    - Travaux pratiques
+- **[Équipe TCH056](https://github.com/orgs/ETS-Winter-2024-CUT/teams/TCH056)**
+    - Exercices
+    - Laboratoires
+    - Travaux pratiques
+- **[Équipe TCH057](https://github.com/orgs/ETS-Winter-2024-CUT/teams/TCH057)**
+    - Exercices
+    - Laboratoires
+    - Travaux pratiques
+- **[Équipe TCH099](https://github.com/orgs/ETS-Winter-2024-CUT/teams/TCH099)**
+    - Exercices
+    - Laboratoires
+    - Travaux pratiques
 
 ---
 
