@@ -10,7 +10,7 @@ Cette organisation a pour objectif de rassembler la classe et de travailler sur 
 
 ### Rapidement: qu'est-ce que GitHub ?
 
-GitHub est une plateforme de développement collaboratif permettant de partager du code, de collaborer sur des projets et de gérer les versions de logiciels. Si vous êtes nouveau sur GitHub, ne vous inquiétez pas ! Vous trouverez plus de détails dans notre Wiki.
+GitHub est une plateforme de développement collaboratif permettant de partager du code, de collaborer sur des projets et de gérer les versions de logiciels. Si vous êtes nouveau sur GitHub, ne vous inquiétez pas ! Vous trouverez plus de détails dans [notre **Wiki**](https://github.com/ETS-Winter-2024-CUT/.github/wiki).
 
 ### Remarque importante
 
