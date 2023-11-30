@@ -200,6 +200,20 @@ Votre contribution est grandement appréciée !
     - Dépôt du groupe 10
         - Exercices
         - Laboratoires
+    - Travail pratique 1
+        - Équipe 1
+            - Dépôt privé
+        - Équipe ...
+            - Dépôt privé
+        - Équipe 25
+            - Dépôt privé
+    - Travail pratique 2
+        - Équipe A
+            - Dépôt privé
+        - Équipe ...
+            - Dépôt privé
+        - Équipe Y
+            - Dépôt privé
 
 ---
 
