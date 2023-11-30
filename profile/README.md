@@ -22,30 +22,184 @@ Votre contribution est grandement appréciée !
 
 ## Structure de l'Organisation
 
-- **[Équipe GTI100](https://github.com/orgs/ETS-Winter-2024-CUT/teams/GTI100)**
-    - Exercices
-    - Laboratoires
-- **[Équipe INF111](https://github.com/orgs/ETS-Winter-2024-CUT/teams/INF111)**
-    - Exercices
-    - Laboratoires
-- **[Équipe LOG100](https://github.com/orgs/ETS-Winter-2024-CUT/teams/LOG100)**
-    - Exercices
-    - Laboratoires
-- **[Équipe LOG121](https://github.com/orgs/ETS-Winter-2024-CUT/teams/LOG121)**
-    - Exercices
-    - Laboratoires
-- **[Équipe TCH055](https://github.com/orgs/ETS-Winter-2024-CUT/teams/TCH055)**
-    - Exercices
-    - Laboratoires
-- **[Équipe TCH056](https://github.com/orgs/ETS-Winter-2024-CUT/teams/TCH056)**
-    - Exercices
-    - Laboratoires
-- **[Équipe TCH057](https://github.com/orgs/ETS-Winter-2024-CUT/teams/TCH057)**
-    - Exercices
-    - Laboratoires
-- **[Équipe TCH099](https://github.com/orgs/ETS-Winter-2024-CUT/teams/TCH099)**
-    - Exercices
-    - Laboratoires
+- **[Cours GTI100 : Programmation et réseautique en génie des TI](https://github.com/orgs/ETS-Winter-2024-CUT/teams/GTI100)**
+    - Dépôt du groupe 01
+        - Exercices
+        - Laboratoires
+    - Dépôt du groupe ...
+        - Exercices
+        - Laboratoires
+    - Dépôt du groupe 10
+        - Exercices
+        - Laboratoires
+    - Travail pratique 1
+        - Équipe 1
+            - Dépôt privé
+        - Équipe ...
+            - Dépôt privé
+        - Équipe 25
+            - Dépôt privé
+    - Travail pratique 2
+        - Équipe A
+            - Dépôt privé
+        - Équipe ...
+            - Dépôt privé
+        - Équipe Y
+            - Dépôt privé
+- **[Cours INF111 : Programmation orientée-objet](https://github.com/orgs/ETS-Winter-2024-CUT/teams/INF111)**
+    - Dépôt du groupe 01
+        - Exercices
+        - Laboratoires
+    - Dépôt du groupe ...
+        - Exercices
+        - Laboratoires
+    - Dépôt du groupe 10
+        - Exercices
+        - Laboratoires
+    - Travail pratique 1
+        - Équipe 1
+            - Dépôt privé
+        - Équipe ...
+            - Dépôt privé
+        - Équipe 25
+            - Dépôt privé
+    - Travail pratique 2
+        - Équipe A
+            - Dépôt privé
+        - Équipe ...
+            - Dépôt privé
+        - Équipe Y
+            - Dépôt privé
+- **[Cours LOG100 : Programmation et réseautique en génie logiciel](https://github.com/orgs/ETS-Winter-2024-CUT/teams/LOG100)**
+    - Dépôt du groupe 01
+        - Exercices
+        - Laboratoires
+    - Dépôt du groupe ...
+        - Exercices
+        - Laboratoires
+    - Dépôt du groupe 10
+        - Exercices
+        - Laboratoires
+    - Travail pratique 1
+        - Équipe 1
+            - Dépôt privé
+        - Équipe ...
+            - Dépôt privé
+        - Équipe 25
+            - Dépôt privé
+    - Travail pratique 2
+        - Équipe A
+            - Dépôt privé
+        - Équipe ...
+            - Dépôt privé
+        - Équipe Y
+            - Dépôt privé
+- **[Cours LOG121 : Conception orientée-objet](https://github.com/orgs/ETS-Winter-2024-CUT/teams/LOG121)**
+    - Dépôt du groupe 01
+        - Exercices
+        - Laboratoires
+    - Dépôt du groupe ...
+        - Exercices
+        - Laboratoires
+    - Dépôt du groupe 10
+        - Exercices
+        - Laboratoires
+    - Travail pratique 1
+        - Équipe 1
+            - Dépôt privé
+        - Équipe ...
+            - Dépôt privé
+        - Équipe 25
+            - Dépôt privé
+    - Travail pratique 2
+        - Équipe A
+            - Dépôt privé
+        - Équipe ...
+            - Dépôt privé
+        - Équipe Y
+            - Dépôt privé
+- **[Cours TCH055 : Bases de données](https://github.com/orgs/ETS-Winter-2024-CUT/teams/TCH055)**
+    - Dépôt du groupe 01
+        - Exercices
+        - Laboratoires
+    - Dépôt du groupe ...
+        - Exercices
+        - Laboratoires
+    - Dépôt du groupe 10
+        - Exercices
+        - Laboratoires
+    - Travail pratique 1
+        - Équipe 1
+            - Dépôt privé
+        - Équipe ...
+            - Dépôt privé
+        - Équipe 25
+            - Dépôt privé
+    - Travail pratique 2
+        - Équipe A
+            - Dépôt privé
+        - Équipe ...
+            - Dépôt privé
+        - Équipe Y
+            - Dépôt privé
+- **[Cours TCH056 : Programmation Web](https://github.com/orgs/ETS-Winter-2024-CUT/teams/TCH056)**
+    - Dépôt du groupe 01
+        - Exercices
+        - Laboratoires
+    - Dépôt du groupe ...
+        - Exercices
+        - Laboratoires
+    - Dépôt du groupe 10
+        - Exercices
+        - Laboratoires
+    - Travail pratique 1
+        - Équipe 1
+            - Dépôt privé
+        - Équipe ...
+            - Dépôt privé
+        - Équipe 25
+            - Dépôt privé
+    - Travail pratique 2
+        - Équipe A
+            - Dépôt privé
+        - Équipe ...
+            - Dépôt privé
+        - Équipe Y
+            - Dépôt privé
+- **[Cours TCH057 : Applications mobiles et expérience usager](https://github.com/orgs/ETS-Winter-2024-CUT/teams/TCH057)**
+    - Dépôt du groupe 01
+        - Exercices
+        - Laboratoires
+    - Dépôt du groupe ...
+        - Exercices
+        - Laboratoires
+    - Dépôt du groupe 10
+        - Exercices
+        - Laboratoires
+    - Travail pratique 1
+        - Équipe 1
+            - Dépôt privé
+        - Équipe ...
+            - Dépôt privé
+        - Équipe 25
+            - Dépôt privé
+    - Travail pratique 2
+        - Équipe A
+            - Dépôt privé
+        - Équipe ...
+            - Dépôt privé
+        - Équipe Y
+            - Dépôt privé
+- **[Cours TCH099 : Projet intégrateur en informatique](https://github.com/orgs/ETS-Winter-2024-CUT/teams/TCH099)**
+    - Dépôt du groupe 01
+        - Exercices
+        - Laboratoires
+    - Dépôt du groupe ...
+        - Exercices
+        - Laboratoires
+    - Dépôt du groupe 10
+        - Exercices
+        - Laboratoires
 
 ---
 
