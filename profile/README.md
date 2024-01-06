@@ -23,44 +23,31 @@ Votre contribution est grandement appréciée !
 ## Structure de l'Organisation
 
 - **[Cours GTI100 : Programmation et réseautique en génie des TI](https://github.com/orgs/ETS-Winter-2024-CUT/teams/GTI100)**
+    - Dépôt de la matière:
+        - [GTI100](https://github.com/ETS-Winter-2024-CUT/GTI100)
 - **[Cours INF111 : Programmation orientée-objet](https://github.com/orgs/ETS-Winter-2024-CUT/teams/INF111)**
+    - Dépôt de la matière:
+        - [INF111](https://github.com/ETS-Winter-2024-CUT/INF111)
     - Dépôts suplémentaires:
         - [INF111-Exemples_Java](https://github.com/ETS-Winter-2024-CUT/INF111-Exemples_Java)
 - **[Cours LOG100 : Programmation et réseautique en génie logiciel](https://github.com/orgs/ETS-Winter-2024-CUT/teams/LOG100)**
+    - Dépôt de la matière:
+        - [LOG100](https://github.com/ETS-Winter-2024-CUT/LOG100)
 - **[Cours LOG121 : Conception orientée-objet](https://github.com/orgs/ETS-Winter-2024-CUT/teams/LOG121)**
+    - Dépôt de la matière:
+        - [LOG121](https://github.com/ETS-Winter-2024-CUT/LOG121)
 - **[Cours TCH055 : Bases de données](https://github.com/orgs/ETS-Winter-2024-CUT/teams/TCH055)**
+    - Dépôt de la matière:
+        - [TCH055](https://github.com/ETS-Winter-2024-CUT/TCH055)
 - **[Cours TCH056 : Programmation Web](https://github.com/orgs/ETS-Winter-2024-CUT/teams/TCH056)**
     - Dépôt de la matière:
         - [TCH056](https://github.com/ETS-Winter-2024-CUT/TCH056)
 - **[Cours TCH057 : Applications mobiles et expérience usager](https://github.com/orgs/ETS-Winter-2024-CUT/teams/TCH057)**
+    - Dépôt de la matière:
+        - [TCH057](https://github.com/ETS-Winter-2024-CUT/TCH057)
 - **[Cours TCH099 : Projet intégrateur en informatique](https://github.com/orgs/ETS-Winter-2024-CUT/teams/TCH099)**
-
-* **Cours : description du cours et lien de l'équipe associée**
-    - Dépôt de la matière
-        - Semaine 1
-            - Exercices...
-            - Laboratoires
-        - Semaine ...
-            - Exercices...
-            - Laboratoires
-        - Semaine 12
-            - Exercices...
-            - Laboratoires
-    - Travail Pratique 1
-        - Équipe A
-            - Dépôt privé
-        - Équipe ...
-            - Dépôt privé
-        - Équipe Z
-            - Dépôt privé
-    - Travail Pratique 2
-        - Équipe A
-            - Dépôt privé
-        - Équipe ...
-            - Dépôt privé
-        - Équipe Z
-            - Dépôt privé
-    - Dépôts suplémentaires
+    - Dépôt de la matière:
+        - [TCH099](https://github.com/ETS-Winter-2024-CUT/TCH099)
 
 ---
 
