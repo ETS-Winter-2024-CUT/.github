@@ -28,7 +28,7 @@ Votre contribution est grandement appréciée !
 - **[Cours INF111 : Programmation orientée-objet](https://github.com/orgs/ETS-Winter-2024-CUT/teams/INF111)**
     - Dépôt de la matière:
         - [INF111](https://github.com/ETS-Winter-2024-CUT/INF111)
-    - Dépôts suplémentaires:
+    - Dépôt suplémentaire:
         - [INF111-Exemples_Java](https://github.com/ETS-Winter-2024-CUT/INF111-Exemples_Java)
 - **[Cours LOG100 : Programmation et réseautique en génie logiciel](https://github.com/orgs/ETS-Winter-2024-CUT/teams/LOG100)**
     - Dépôt de la matière:
